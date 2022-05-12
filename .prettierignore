@@ -3,4 +3,4 @@ dist
 .idea
 .eslintrc.js
 tailwind.config.js
-yarn.lock
+pnpm-lock.yaml

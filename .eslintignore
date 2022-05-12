@@ -2,4 +2,5 @@ node_modules
 dist
 .idea
 .eslintrc.js
+tailwind.config.js
 yarn.lock

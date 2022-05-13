@@ -16,3 +16,9 @@ pnpm install
 ```shell
 pnpm dev
 ```
+
+# Template use
+
+```shell
+npx degit passionoil/vite-app#master my-app
+```
